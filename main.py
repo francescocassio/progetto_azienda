@@ -11,5 +11,7 @@ from funzioni_supporto import scelta
 #a tutto ciò che non deve essere NULL. Inoltre pensate se riuscite ad inserire alcuni dei campi in
 #automatico (imponibile, data, ecc)
 
+#commento a caso test
+
 if __name__ == '__main__':
     scelta()
